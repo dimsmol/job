@@ -1,0 +1,2 @@
+- [resume](https://github.com/dimsmol/job/blob/master/Dmitriy_Smolin_resume.pdf) ([download](https://github.com/dimsmol/job/raw/master/Dmitriy_Smolin_resume.pdf))
+- LinkedIn: [dimsmol](http://linkedin.com/in/dimsmol)
